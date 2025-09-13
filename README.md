@@ -3,7 +3,7 @@ Templáty, jak hrát na který mapě na základě mých zkušeností s hrou.
 
 Vysvětlivky:
 
-Pevný šipky - kudy pushovat/crossovat
+Pevný šipky - kudy pushovat/crossovat\n
 Tečkovaný šipky - line of sight
 Čárkovaný šipky - popisky/komentáře
 
