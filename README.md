@@ -20,3 +20,5 @@ Hulldown = je vidět pouze věž, často vyžaduje sklopení
 Minimapy jsou možná trochu zastaralý, nový nefungujou na tý stránce, kde jsem to dělal. Ale většina pozic by měla sedět přesně.
 
 Ty mapy, kde se to liší drasticky, se chystám importovat otravnějším způsobem vpořádku.
+
+Nordskar tu ještě dlouho nebude, poněvadž vím o tý mapě kulový a hrál jsem tam jen dvakrát.
